@@ -1,0 +1,10 @@
+pandas 
+#transformar
+openai
+huggingface
+streamlit
+python-dotenv
+pyPDF2
+
+
+-e .

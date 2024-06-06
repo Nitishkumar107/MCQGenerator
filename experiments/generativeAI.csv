@@ -1,0 +1,6 @@
+MCQ,choice,correct
+What is Generative AI focused on?,a:Creating human-generated content | b:Enabling machines to produce content similar to human-generated information | c:Analyzing existing data patterns | d:Developing AI algorithms,b
+Which neural networks are commonly used in Generative AI?,a:Convolutional Neural Networks (CNNs) | b:Recurrent Neural Networks (RNNs) | c:Support Vector Machines (SVMs) | d:Decision Trees,b
+What is a key application of Generative AI in healthcare?,a:Creating chatbots | b:Generating medical reports | c:Image and video generation | d:Data augmentation,b
+What distinguishes Generative AI from Discriminative AI?,a:Generates new data based on learned patterns | b:Classifies input data into predefined classes | c:Focuses on content creation | d:Learn patterns in data for classification,a
+Which Generative AI model is known for generating realistic images?,a:GPT-4 | b:BERT | c:DALL·E | d:StyleGAN2,d
