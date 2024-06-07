@@ -1,6 +1,6 @@
 MCQ,choice,correct
-What is Generative AI focused on?,a:Creating human-generated content | b:Enabling machines to produce content similar to human-generated information | c:Analyzing existing data patterns | d:Developing AI algorithms,b
+What is Generative AI focused on?,a:Enabling machines to produce content resembling human-generated information | b:Creating hardware for AI systems | c:Developing algorithms for data analysis | d:Improving internet connectivity,a
 Which neural networks are commonly used in Generative AI?,a:Convolutional Neural Networks (CNNs) | b:Recurrent Neural Networks (RNNs) | c:Support Vector Machines (SVMs) | d:Decision Trees,b
-What is a key application of Generative AI in healthcare?,a:Creating chatbots | b:Generating medical reports | c:Image and video generation | d:Data augmentation,b
-What distinguishes Generative AI from Discriminative AI?,a:Generates new data based on learned patterns | b:Classifies input data into predefined classes | c:Focuses on content creation | d:Learn patterns in data for classification,a
-Which Generative AI model is known for generating realistic images?,a:GPT-4 | b:BERT | c:DALL·E | d:StyleGAN2,d
+What is one of the applications of Generative AI in healthcare?,a:Creating video games | b:Generating medical reports | c:Designing fashion trends | d:Developing social media platforms,b
+What is a difference between Generative AI and Discriminative AI?,"a:Generative AI creates new data based on learned patterns, while Discriminative AI classifies input data into predefined classes | b:Generative AI focuses on image recognition, while Discriminative AI generates text | c:Generative AI uses SVMs for training, while Discriminative AI uses RNNs | d:Generative AI is used for spam detection, while Discriminative AI is used for chatbots",a
+Which Generative AI model is known for generating images from textual descriptions?,a:GPT-4 | b:BERT | c:DALL·E | d:StyleGAN2,c
