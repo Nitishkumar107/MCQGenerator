@@ -4,8 +4,9 @@ import pandas as pd
 import traceback
 from dotenv import load_dotenv
 
-from src.MCQGenerotor.utils import read_file, get_table_data
-from src.MCQGenerotor.logger import logging
+
+from src.MCQGenerator.utils import read_file, get_table_data
+from src.MCQGenerator.logger import logging
 
 
 from langchain_openai import ChatOpenAI
@@ -14,6 +15,7 @@ from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
 from langchain.chains import SequentialChain
 from langchain.callbacks import get_openai_callback
+from langchain_community.llms import OpenAI
 import PyPDF2 
 
 # load the necessary packages from environment
